@@ -18,7 +18,7 @@ Plugins for Valenced.
 Add this repository in Settings → Valenced → Plugins → [+]:
 
 ```
-https://yumistra.github.io/Freestyle-Valenced
+https://sparkling-isnt-it-coo1.github.io/Freestyle-Valenced
 ```
 
 ## Build
@@ -26,7 +26,7 @@ https://yumistra.github.io/Freestyle-Valenced
 ```sh
 npm install
 npm run build
-npm run package -- --base-url https://yumistra.github.io/Freestyle-Valenced
+npm run package -- --base-url https://sparkling-isnt-it-coo1.github.io/Freestyle-Valenced
 ```
 
 Pushing to `main` builds and deploys to GitHub Pages.

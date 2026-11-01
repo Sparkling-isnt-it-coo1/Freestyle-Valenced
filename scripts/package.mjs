@@ -1,7 +1,7 @@
 // 빌드된 플러그인을 Valenced 저장소 형식으로 묶는다.
 //   dist/pool/<id>@<version>.zip  (manifest.json + index.js)
 //   dist/index.json               (저장소 목록. Valenced에서 저장소 주소로 이 폴더를 추가)
-// 사용법: node scripts/package.mjs [--base-url https://yumistra.github.io/Freestyle-Valenced]
+// 사용법: node scripts/package.mjs [--base-url https://sparkling-isnt-it-coo1.github.io/Freestyle-Valenced]
 import { createHash } from 'node:crypto'
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { parseArgs } from 'node:util'

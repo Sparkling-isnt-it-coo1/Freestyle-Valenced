@@ -1,9 +1,9 @@
 {
 	"format": 1,
-	"id": "yumistra.plugin-backup",
+	"id": "sparkling-isnt-it-coo1.plugin-backup",
 	"name": "Plugin Backup",
 	"description": "Back up and restore your plugins.",
-	"author": "Yumistra",
+	"author": "Sparkling-isnt-it-coo1",
 	"icon": "DownloadIcon",
 	"version": "1.0.1",
 	"dependencies": {

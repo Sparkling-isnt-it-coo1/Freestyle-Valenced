@@ -58,7 +58,7 @@ let ThemeContextModule: { ThemeContext: any } | undefined
  * 위 화면 안쪽의 테마 컨텍스트에 붙이는 표시. 스타일 색을 풀 때(getSemanticColorContextFromThemeContext → resolveSemanticColor)
  * 이 표시가 있으면 화면 바탕색(표면색)을 투명으로 바꾼다
  */
-const MARK = '__yumistraOverlay'
+const MARK = '__sparklingOverlay'
 const markedContexts = new WeakMap<object, object>()
 function markContext(ctx: any) {
     if (!ctx || typeof ctx !== 'object') return ctx

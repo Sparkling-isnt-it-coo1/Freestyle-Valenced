@@ -1,9 +1,9 @@
 {
 	"format": 1,
-	"id": "yumistra.better-animations",
+	"id": "sparkling-isnt-it-coo1.better-animations",
 	"name": "Better Animations",
 	"description": "Animations everywhere.",
-	"author": "Yumistra",
+	"author": "Sparkling-isnt-it-coo1",
 	"icon": "MagicWandIcon",
 	"version": "1.0.20",
 	"dependencies": {
@@ -14,7 +14,7 @@
 		"script": "index.js",
 		"android": {
 			"path": "plugin.jar",
-			"class": "io.github.yumistra.betteranimations.BetterAnimationsPlugin"
+			"class": "io.github.sparkling_isnt_it_coo1.betteranimations.BetterAnimationsPlugin"
 		}
 	}
 }

@@ -1,6 +1,6 @@
 @file:JvmName("MessageActionsPlugin")
 
-package io.github.yumistra.messageactions
+package io.github.sparkling_isnt_it_coo1.messageactions
 
 import android.animation.ValueAnimator
 import android.content.Context

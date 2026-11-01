@@ -27,7 +27,7 @@ function shouldSilence(channelId: unknown, message: any): boolean {
 }
 
 // 매번 같은 요소라야 다시 그려진 트리에서 찾아 뺄 수 있다
-const button = <SilentButton key="yumistra-silent-messages" />
+const button = <SilentButton key="sparkling-isnt-it-coo1-silent-messages" />
 
 function insertButton(tree: any, side: 'left' | 'right') {
     const node: any = findInReactFiber(tree, (n: any): n is any => Array.isArray(n?.props?.children))

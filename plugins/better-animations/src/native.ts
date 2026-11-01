@@ -11,7 +11,7 @@ export const VERSION: string = typeof __PLUGIN_VERSION__ === 'string' ? __PLUGIN
  * 설정은 같은 storage.json 을 읽는다. 화면 전환은 효과 정의까지 풀어서 native.stack 에 넣어 둔다.
  */
 
-export const NATIVE_ID = 'yumistra.better-animations'
+export const NATIVE_ID = 'sparkling-isnt-it-coo1.better-animations'
 
 function call(name: string, args: unknown[] = []) {
     try {

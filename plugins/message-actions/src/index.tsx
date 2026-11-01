@@ -23,7 +23,7 @@ import { Image, ScrollView, View } from 'react-native'
  * 버튼은 네이티브(plugin.jar)가 손가락이 닿은 메시지 줄 밑에 띄운다.
  */
 
-const NATIVE_ID = 'yumistra.message-actions'
+const NATIVE_ID = 'sparkling-isnt-it-coo1.message-actions'
 
 type Mode = 'buttons' | 'dialog' | 'default'
 interface Settings {

@@ -1,9 +1,9 @@
 {
 	"format": 1,
-	"id": "yumistra.commands",
+	"id": "sparkling-isnt-it-coo1.commands",
 	"name": "Commands",
 	"description": "/plugins, /eval and /debug.",
-	"author": "Yumistra",
+	"author": "Sparkling-isnt-it-coo1",
 	"icon": "SlashBoxIcon",
 	"version": "1.0.0",
 	"dependencies": {

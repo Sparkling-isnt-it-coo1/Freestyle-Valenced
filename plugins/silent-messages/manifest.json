@@ -1,9 +1,9 @@
 {
 	"format": 1,
-	"id": "yumistra.silent-messages",
+	"id": "sparkling-isnt-it-coo1.silent-messages",
 	"name": "Silent Messages",
 	"description": "Send messages without notifying people, toggled from a button in the chat bar. Ported from siguma's Silent Messages.",
-	"author": "Yumistra",
+	"author": "Sparkling-isnt-it-coo1",
 	"icon": "BellSlashIcon",
 	"version": "1.0.0",
 	"dependencies": {

@@ -4,14 +4,14 @@ Plugins for Valenced.
 
 | Plugin | ID |
 | --- | --- |
-| Better Animations | `yumistra.better-animations` |
-| Commands | `yumistra.commands` |
-| Message Actions | `yumistra.message-actions` |
-| Overlay Background | `yumistra.overlay-background` |
-| Plugin Backup | `yumistra.plugin-backup` |
-| Silent Messages | `yumistra.silent-messages` |
-| Silent Leave | `yumistra.silent-leave` |
-| Toast Fix | `yumistra.toast-fix` |
+| Better Animations | `sparkling-isnt-it-coo1.better-animations` |
+| Commands | `sparkling-isnt-it-coo1.commands` |
+| Message Actions | `sparkling-isnt-it-coo1.message-actions` |
+| Overlay Background | `sparkling-isnt-it-coo1.overlay-background` |
+| Plugin Backup | `sparkling-isnt-it-coo1.plugin-backup` |
+| Silent Messages | `sparkling-isnt-it-coo1.silent-messages` |
+| Silent Leave | `sparkling-isnt-it-coo1.silent-leave` |
+| Toast Fix | `sparkling-isnt-it-coo1.toast-fix` |
 
 ## Install
 

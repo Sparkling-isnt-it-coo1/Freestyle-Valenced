@@ -6,7 +6,7 @@ import * as Repos from '@valenced/plugins/_/repositories'
 import { pluginStorageDirFor } from '@valenced/plugins/constants'
 import { formatVersion } from '@valenced/plugins/utils'
 
-export const SELF_ID = 'yumistra.plugin-backup'
+export const SELF_ID = 'sparkling-isnt-it-coo1.plugin-backup'
 const FORMAT = 2
 const KIND = 'valenced-plugin-backup'
 /** Revenge Next 판 Plugin Backup 으로 만든 백업도 읽는다 (Valenced 는 Revenge Next 의 이름만 바뀐 포크) */

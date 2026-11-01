@@ -1,4 +1,4 @@
-package io.github.yumistra.messageactions
+package io.github.sparkling_isnt_it_coo1.betteranimations
 
 import android.graphics.Rect
 import android.view.View

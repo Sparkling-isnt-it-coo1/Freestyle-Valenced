@@ -1,4 +1,4 @@
-package io.github.yumistra.betteranimations
+package io.github.sparkling_isnt_it_coo1.betteranimations
 
 import android.content.Context
 import android.graphics.Camera

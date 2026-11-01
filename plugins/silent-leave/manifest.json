@@ -1,9 +1,9 @@
 {
 	"format": 1,
-	"id": "yumistra.silent-leave",
+	"id": "sparkling-isnt-it-coo1.silent-leave",
 	"name": "Silent Leave",
 	"description": "Leave group DMs silently.",
-	"author": "Yumistra",
+	"author": "Sparkling-isnt-it-coo1",
 	"icon": "DoorExitIcon",
 	"version": "1.0.0",
 	"dependencies": {

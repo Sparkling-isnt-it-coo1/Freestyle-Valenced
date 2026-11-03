@@ -7,6 +7,7 @@ Plugins for Valenced.
 | Better Animations | `sparkling-isnt-it-coo1.better-animations` |
 | Commands | `sparkling-isnt-it-coo1.commands` |
 | Message Actions | `sparkling-isnt-it-coo1.message-actions` |
+| No Compression | `sparkling-isnt-it-coo1.no-compression` |
 | Overlay Background | `sparkling-isnt-it-coo1.overlay-background` |
 | Plugin Backup | `sparkling-isnt-it-coo1.plugin-backup` |
 | Silent Messages | `sparkling-isnt-it-coo1.silent-messages` |
